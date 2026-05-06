@@ -1,4 +1,4 @@
-name = "lining-lcw-hub"
+name = "serverless-qrcode-hub"
 main = "index.js"
 compatibility_date = "2025-03-10"
 
