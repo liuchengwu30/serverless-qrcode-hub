@@ -22,3 +22,7 @@ crons = ["*/10 * * * * *"]
 [assets]
 directory = "./dist"
 binding = "ASSETS"
+
+[[routes]]
+pattern = "chat.example.com"
+custom_domain = true
